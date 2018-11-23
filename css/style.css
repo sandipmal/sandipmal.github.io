@@ -5,11 +5,17 @@ h1 {
     font-family: verdana;   
     font-size: 300%;
 }
-p  {
+h2  {
     color: red;
     font-family: verdana;
     font-size: 120%;
     text-align: center;
+}
+p  {
+    color: black;
+    font-family: verdana;
+    font-size: 100%;
+    text-align: left;
 }
 img  {
 	
